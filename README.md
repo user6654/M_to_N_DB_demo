@@ -1,6 +1,6 @@
 https://github.com/user6654/M_to_N_DB_sample
 
-A rudimental revised project of many is to many database.
+A rudimental revised project of a many is to many database demo.
 
 /*
  * As a common convention - gitignore was used for the secrets folder as required by the file in path "db/index.js"
