@@ -1,4 +1,4 @@
-https://github.com/user6654/M_to_N_DB_sample
+https://github.com/user6654/Many-To-Many-DBexercise
 
 A rudimental revised project of a many is to many database demo.
 
