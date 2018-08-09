@@ -7,7 +7,7 @@ Security aside as per educational purposes, the file may be recreated with the c
 
 Recreate the folder "secrets" with filename "db_configuration.js" and containing:
 
-/*begin code*/
+/***begin code***/
 module.exports = { 
   user: 'node_user',
   host: 'localhost',
@@ -15,6 +15,6 @@ module.exports = {
   password: 'node_password',
   port: 5432
 };
-/*end code*/
+/***end code***/
 
 And as usual, do install the dependencies as seen in the package.json file at the project's root folder.
