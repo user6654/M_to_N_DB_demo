@@ -1,6 +1,6 @@
 https://github.com/user6654/Many-To-Many-DBexercise
 
-A rudimental revised project of a many is to many database demo.
+A simple many is to many database demo.
 
 /*
  * As a common convention - gitignore was used for the secrets folder as required by the file in path "db/index.js"
