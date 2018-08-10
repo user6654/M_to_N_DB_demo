@@ -1,4 +1,4 @@
-https://github.com/user6654/Many-To-Many-DBexercise
+https://github.com/user6654/many-To-many-db-exercise
 
 A simple many is to many database demo.
 
