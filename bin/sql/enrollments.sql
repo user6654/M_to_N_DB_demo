@@ -12,7 +12,7 @@ CREATE TABLE course_subjects(
 );
 
 CREATE TABLE enrollments(
-  enrollment_priority serial,
+  enrollment_id serial,
   student character varying(50),
   course_subject character varying(50)
 );
